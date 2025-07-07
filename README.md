@@ -1,2 +1,2 @@
-# ED
-Estruturas de dados ESTGV 24-25
+# Estruturas de dados ESTGV 25-25
+Código e exercícios
