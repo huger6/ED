@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1742431459 source:c:\users\hugoa\desktop\codigo\codeblocks\ficha2\main.c
+	"headers.h"
+
+1742432616 c:\users\hugoa\desktop\codigo\codeblocks\ficha2\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1742432357 source:c:\users\hugoa\desktop\codigo\codeblocks\ficha2\funcoes.c
+	"headers.h"
+

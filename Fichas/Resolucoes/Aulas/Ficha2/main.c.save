@@ -1,0 +1,12 @@
+#include "headers.h"
+
+int main(void)
+{
+    Lista * li = criar_lista_aleatoria();
+    mostrar_lista(li);
+    printf("")
+    ordenarLista(li);
+    mostrar_lista(li);
+    system("pause");
+    return 0;
+}
